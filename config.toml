@@ -13,7 +13,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ezhil-demo"
 
 paginate = 20
-summaryLength = 200
+summaryLength = 120
 
 [params]
 	subtitle = ""
@@ -29,10 +29,10 @@ name = "home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "all posts"
-url = "/posts"
-weight = 2
+#[[menu.main]]
+#name = "all posts"
+#url = "/posts"
+#weight = 2
 
 [[menu.main]]
 name = "about"
