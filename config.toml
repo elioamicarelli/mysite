@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Ezhil"
+title = "a second muse"
 theme = "ezhil"
 paginate = 5
 
@@ -16,7 +16,7 @@ disqusShortname = "ezhil-demo"
 summaryLength = 20
 
 [params]
-	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	subtitle = ""
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
@@ -53,6 +53,11 @@ url = "https://github.com/vividvilla/ezhil"
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
+
+[[params.social]]
+name = "Github"
+icon = "twitter"
+url = ""
 
 [taxonomies]
    tag = "tags"
