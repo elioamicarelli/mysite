@@ -13,7 +13,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ezhil-demo"
 
 paginate = 20
-summaryLength = 120
+summaryLength = 80
 
 [params]
 	subtitle = ""
