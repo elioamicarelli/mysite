@@ -39,10 +39,10 @@ name = "about"
 url = "/about"
 weight = 3
 
-[[menu.main]]
-name = "tags"
-url = "/tags"
-weight = 4
+#[[menu.main]]
+#name = "tags"
+#url = "/tags"
+#weight = 4
 
 [[params.social]]
 name = "linkedin"
