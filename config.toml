@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "a second muse"
 theme = "ezhil"
-paginate = 5
 
 copyright = "© Copyright notice"
 
@@ -13,6 +12,7 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-123-45"
 disqusShortname = "ezhil-demo"
 
+paginate = 20
 summaryLength = 200
 
 [params]
