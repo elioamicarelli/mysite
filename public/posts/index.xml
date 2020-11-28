@@ -20,6 +20,17 @@ Here is how you can switch based on your OS
     </item>
     
     <item>
+      <title>How to test dark mode???</title>
+      <link>/posts/post-8/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
+      
+      <guid>/posts/post-8/</guid>
+      <description>You can set dark mode as default by setting params.mode to dark in config.toml or set it to auto which will detect based on your OS and switch to dark mode. For more details refer documentation
+Here is how you can switch based on your OS
+ iOS Android macOS Windows 10  </description>
+    </item>
+    
+    <item>
       <title>Typography</title>
       <link>/posts/post-5/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>

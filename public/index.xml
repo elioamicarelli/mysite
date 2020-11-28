@@ -29,6 +29,17 @@ Here is how you can switch based on your OS
     </item>
     
     <item>
+      <title>How to test dark mode???</title>
+      <link>/posts/post-8/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
+      
+      <guid>/posts/post-8/</guid>
+      <description>You can set dark mode as default by setting params.mode to dark in config.toml or set it to auto which will detect based on your OS and switch to dark mode. For more details refer documentation
+Here is how you can switch based on your OS
+ iOS Android macOS Windows 10  </description>
+    </item>
+    
+    <item>
       <title>Typography</title>
       <link>/posts/post-5/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
@@ -91,28 +102,6 @@ We run from silence. We run from the spaces between tasks and appointments. We r
 It all keeps piling up, and it can feel overwhelming.
 How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
 In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.</description>
-    </item>
-    
-    <item>
-      <title>a post in content post</title>
-      <link>/post/20200509_a_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/20200509_a_post/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.</description>
     </item>
     
   </channel>
