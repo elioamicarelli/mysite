@@ -1,0 +1,10 @@
+---
+title: ok computer
+author: Elio Amicarelli
+date: '2020-11-28'
+slug: []
+categories: []
+tags: []
+draft: yes
+---
+
