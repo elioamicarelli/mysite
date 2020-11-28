@@ -29,48 +29,6 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.</description>
     </item>
     
     <item>
-      <title>How to test dark mode?</title>
-      <link>/posts/post-7/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
-      
-      <guid>/posts/post-7/</guid>
-      <description>You can set dark mode as default by setting params.mode to dark in config.toml or set it to auto which will detect based on your OS and switch to dark mode. For more details refer documentation
-Here is how you can switch based on your OS
- iOS Android macOS Windows 10  </description>
-    </item>
-    
-    <item>
-      <title>How to test dark mode???</title>
-      <link>/posts/post-8/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
-      
-      <guid>/posts/post-8/</guid>
-      <description>You can set dark mode as default by setting params.mode to dark in config.toml or set it to auto which will detect based on your OS and switch to dark mode. For more details refer documentation
-Here is how you can switch based on your OS
- iOS Android macOS Windows 10  </description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>/posts/post-5/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
-      
-      <guid>/posts/post-5/</guid>
-      <description>Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad. Sed ut perspser iciatis unde omnis iste natus error sit voluptatem accusantium doloremque laste. Dolores sadips ipsums sits.
-Heading 1 Lid est laborum et dolorum fuga. Et harum quidem rerum facilis est et expeditasi distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihilse impedit quo minus id quod amets untra dolor amet sad.</description>
-    </item>
-    
-    <item>
-      <title>Hugo shortcodes</title>
-      <link>/posts/post-6/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:36 +0530</pubDate>
-      
-      <guid>/posts/post-6/</guid>
-      <description>Images   Dave Herring     Dave Herring   Github Gist  Youtube video   Tweet Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
-&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017  Vimeo   Instagram </description>
-    </item>
-    
-    <item>
       <title>Getting Started with Traveling Ultralight</title>
       <link>/posts/post-4/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
