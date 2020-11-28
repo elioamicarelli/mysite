@@ -1,5 +1,5 @@
 ---
-title: "test_page"
+title: "test_content_post"
 output: html_document
 ---
 
