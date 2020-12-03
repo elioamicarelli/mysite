@@ -2,14 +2,14 @@
 # Site Settings
 
 baseURL = "https://example.com/"
-title = "a simple muse ~ notes within the bounds of chance"
+title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
 # Name of theme
-theme = "hugo-theme-meme"
+theme = "meme"
 
 # `hugo new` automatically opened text editor
 newContentEditor = ""
@@ -94,17 +94,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = ""
+    name = "reuixiy"
     # Email
-    email = ""
+    email = "reuixiy@gmail.com"
     # Motto or introduction
-    motto = ""
+    motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = ""
+    website = "https://io-oi.me/"
     # Twitter
-    twitter = ""
+    twitter = "reuixiy"
 
 # Related content
 [related]
@@ -197,24 +197,24 @@ uglyURLs = false
     #     weight = 1
     #     pre = "internal"
     #     post = "home"
-    #[[menu.main]]
-    #    url = "/posts/"
-    #    name = "Posts"
-    #    weight = 2
-    #    pre = "internal"
-    #    post = "archive"
-    #[[menu.main]]
-     #   url = "/categories/"
-     #   name = "Categories"
-     #   weight = 3
-     #   pre = "internal"
-     #   post = "th"
-    #[[menu.main]]
-     #   url = "/tags/"
-     #   name = "Tags"
-     #   weight = 4
-     #   pre = "internal"
-     #   post = "tags"
+    [[menu.main]]
+        url = "/posts/"
+        name = "Posts"
+        weight = 2
+        pre = "internal"
+        post = "archive"
+    [[menu.main]]
+        url = "/categories/"
+        name = "Categories"
+        weight = 3
+        pre = "internal"
+        post = "th"
+    [[menu.main]]
+        url = "/tags/"
+        name = "Tags"
+        weight = 4
+        pre = "internal"
+        post = "tags"
     [[menu.main]]
         url = "/about/"
         name = "About"
@@ -342,7 +342,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "2009-12-03T20:17:43+00:00"
+    siteCreatedTime = "1969-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -719,7 +719,7 @@ uglyURLs = false
     primaryColorLight = "220, 90%, 56%"
     # Primary color of dark mode
     primaryColorDark = "201, 65%, 62%"
-    # ATTENTION: only HSL color values are
+    # ATTENTION: only HSL color values ​​are
     #            supported
 
     # The content width of the post
@@ -761,10 +761,10 @@ uglyURLs = false
     #            specified format
     #            https://gohugo.io/functions/format/
 
-    displayPublishedDate = false
+    displayPublishedDate = true
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = false
+    displayModifiedDate = true
     modifiedDateIcon = "calendar-check"
 
     displayExpiredDate = true
@@ -932,9 +932,9 @@ uglyURLs = false
     # Menu bar
     fontFamilyMenu = ""
     # Post title, post subtitle, list title, year and month title of the list, related posts title, previous/next post title, header of table, term/name in a definition list
-    fontFamilyTitle = "'Verdana'"
+    fontFamilyTitle = "'Comfortaa', sans-serif"
     # Headings, toc title
-    fontFamilyHeadings = "'Verdana'" #"'Comfortaa', sans-serif"
+    fontFamilyHeadings = "'Comfortaa', sans-serif"
     # Code, superscript, post meta info, post updated badge, post gitinfo, minimal footer, busuanzi site view counter
     fontFamilyCode = "'Source Code Pro', monospace"
     # Blockquotes
@@ -1004,7 +1004,7 @@ uglyURLs = false
     ######################################
     ## Drop Cap
 
-    enableDropCap = false
+    enableDropCap = true
     # Note: *global settings*
     #       `dropCap` in post’s Front Matter
     #       has a higher priority than here
@@ -1061,9 +1061,9 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = false
+    enablePostUpdatedBadge = true
 
-    displayUpdatedBadge = false
+    displayUpdatedBadge = true
     # Note: *global settings*
     #       `badge` in post’s Front Matter
     #       has a higher priority than here
@@ -1114,13 +1114,13 @@ uglyURLs = false
     displayShareOnText = false
 
     shareOnTwitter = true
-    shareOnFacebook = false
+    shareOnFacebook = true
     shareOnLinkedIn = true
-    shareOnTelegram = false
-    shareOnWeibo = false
-    shareOnDouban = false
-    shareOnQQ = false
-    shareOnQzone = false
+    shareOnTelegram = true
+    shareOnWeibo = true
+    shareOnDouban = true
+    shareOnQQ = true
+    shareOnQzone = true
 
     shareViaQRCode = true
 
@@ -1206,11 +1206,11 @@ uglyURLs = false
 
     displayCopyrightSymbol = true
 
-    displaySiteCreatedYear = false
+    displaySiteCreatedYear = true
 
     # Leave it empty("") if you don’t want
     # the icon
-    iconBetweenYearAndAuthor = ""
+    iconBetweenYearAndAuthor = "heart"
     iconColor = "#f06292"
     # Enable heartbeat animation?
     iconAnimation = true
@@ -1218,10 +1218,10 @@ uglyURLs = false
     # Display links to Hugo and MemE?
     displayPoweredBy = true
 
-    displaySiteCopyright = false
+    displaySiteCopyright = true
 
     # Custom Footer (Markdown supported)
-    customFooter = "🐸"
+    customFooter = ""
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "Site UV"
@@ -1235,7 +1235,7 @@ uglyURLs = false
     #       https://busuanzi.ibruce.info/
 
     # Socials
-    enableSocials = false
+    enableSocials = true
     # Note: see data/Socials.toml
 
 
