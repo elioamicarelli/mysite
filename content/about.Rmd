@@ -1,0 +1,22 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About
+
+Welcome! In this blog I mainly write about experimentation ⋃ causal inference ⋃ machine learning. If I had to bet, I'd say that posts about behavioural science, statistical simulations, agent-based models, text mining, society + AI, and all sort of unsolicited data science opinions are likely to appear.
+
+Here are three things about me:
+
+
+
+
+
+See you around!
+
+Elio

@@ -52,4 +52,9 @@
     <lastmod>2020-12-03T18:50:15+01:00</lastmod>
   </url>
   
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-12-06T21:49:35+01:00</lastmod>
+  </url>
+  
 </urlset>
