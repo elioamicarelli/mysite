@@ -342,7 +342,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "2009-12-03T20:17:43+00:00"
+    siteCreatedTime = "2020-12-03T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
@@ -1206,7 +1206,7 @@ uglyURLs = false
 
     displayCopyrightSymbol = true
 
-    displaySiteCreatedYear = false
+    displaySiteCreatedYear = true
 
     # Leave it empty("") if you don’t want
     # the icon
