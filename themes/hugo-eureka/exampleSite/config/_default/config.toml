@@ -1,13 +1,13 @@
 baseURL = "/"
-title = "Elio Amicarelli"
-# https://github.com/wangchucheng/hugo-eureka
+title = "Eureka Demo"
+
 # Comment when installing using Hugo Modules
-theme = "hugo-eureka"
+theme = "eureka"
 # Uncomment when installing using Hugo Modules
 # theme = "github.com/wangchucheng/hugo-eureka"
 
 paginate = 3
-copyright = "&copy; 2020 Cover details from Frieder Nake 1967, Matrix Multiplication Series"
+copyright = "&copy; 2020 <a href=\"https://www.wangchucheng.com/\">C. Wang</a> and <a href=\"https://www.ruiqima.com/\">R. Ma</a>"
 enableEmoji = true
 enableGitInfo = false
 summaryLength = 75
