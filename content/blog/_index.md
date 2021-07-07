@@ -1,4 +1,3 @@
 ---
 title: Posts
-active: false
 ---
